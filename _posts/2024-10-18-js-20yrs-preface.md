@@ -9,10 +9,5 @@ catalog:      true
 tags:
   - Complex Analysis
 ---
+![](/img/in-post/post-ca/02.jpg)
 
-hfskdfsdhfkds
-
-![img](img/in-post/post-ComplexAnalysis-02.jpg)
-
-fgshgfsdgfsdfds
-# hfdsjfjdsfhdsjkfshd
