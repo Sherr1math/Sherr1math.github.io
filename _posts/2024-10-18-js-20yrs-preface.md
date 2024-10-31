@@ -1,6 +1,6 @@
 ---
 title: "Complex Analysis(Keep updating)"
-subtitle: "Eidted by Sherr1
+subtitle: "Eidted by Sherr1"
 layout: post
 author: "Sherr1"
 date: 2024-10-18
