@@ -91,5 +91,6 @@ page-mathjax: false
 # Friends
 friends:
   [
+    { title: "陈昱达", href: "https://tucydabc.github.io/" },
     # { title: "乱序（Midare）", href: "http://mida.re/" },
   ]
