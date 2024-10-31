@@ -12,7 +12,7 @@ tags:
 
 hfskdfsdhfkds
 
-![img](img/in-post/math/ComplexAnalysis/ComplexAnalysis_02.jpg)
+![img](img/in-post/post-ComplexAnalysis-02.jpg)
 
 fgshgfsdgfsdfds
 # hfdsjfjdsfhdsjkfshd
