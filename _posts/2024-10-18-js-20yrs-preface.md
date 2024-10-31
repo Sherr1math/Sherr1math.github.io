@@ -2,10 +2,9 @@
 title: "The 1st Class of Complex Analysis"
 subtitle: "Host:Tang Shengxuan"
 layout: post
-author: "Hux"
+author: "Sherr1"
 header-style: text
 catalog:      true
-hidden: false
 tags:
   - Complex Analysis
   - C++
