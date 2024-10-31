@@ -10,8 +10,8 @@ tags:
   - C++
 ---
 # Complex Analysis 1st
-在$D$上**一致收敛**：$\forall\epsilon\gt0$，$\exists N$，$\forall n\gt N$，$\forall z\in D$，$|f_n(z)-f(z)|\lt\delta$，记作
-$$f_n(z)\rightrightarrows f(z)$$.
+在\[D\]上**一致收敛**：$\forall\epsilon\gt0$，$\exists N$，$\forall n\gt N$，$\forall z\in D$，$|f_n(z)-f(z)|\lt\delta$，记作
+$$f_n(z)\rightrightarrows f(z)$$.\delta
 
 References
 ----------
