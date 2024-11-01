@@ -26,10 +26,10 @@ This is the second class of Complex Analysis, hosted by *Tang Shengxuan*. In thi
 
 **Open Mapping Theorem**
 
-### Partial content display:
+## Partial content display:
 ![](/img/in-post/post-ca/11.jpg)
 
-### Download
+## Download
 For more information about the 2nd Class of Complex Analysis, please refer to the following sources(Chinese version):
 
 [Complex Analysis](/files/Complex%20Analysis.pdf) (begin from page **11** to page **16**)

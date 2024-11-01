@@ -3,10 +3,15 @@ Hello, I am **Sherr1**, a sophomore from the School of Mathematical Sciences, Na
 ##### Educational experience
 - Kindergarten · Jinjiang Experimental Kindergarten
 - Primary School · Jinjiang Experimental Primary School
-- Middle School · Jinjiang No.1 Middle School (Middle School)
-- Senior High School · Jinjiang No.1 Middle School (Senior High School)
-- Undergraduate · School of Mathematical Sciences, Nankai University
+- Middle School · [Jinjiang No.1 Middle School (Middle School)](https://zhxy.jjyz.net/website/1d91479b32a4b30097891c8369b7b1cc)
+- Senior High School · [Jinjiang No.1 Middle School (Senior High School)](https://zhxy.jjyz.net/website/1d91479b32a4b30097891c8369b7b1cc)
+- Undergraduate · [School of Mathematical Sciences, Nankai University](https://math.nankai.edu.cn/)
 
+##### Awards
+- The Examination for the National Senior High School’s Mathematical Competition, **First Prize, Oct. 2022**.
+- The Top Talents in "Elite Program for Senior High School Students", Direction: **Mathematics, Xiamenen, Xiamen University, Jan. 2021**.
+- National Olympiad in Informatics in Provinces,**First Prize, Dec. 2020**.
+- 2016 World Robot Olympiad(WRO) China Final, **Second Place, Aug. 2016**.
 <!-- 
 Hey，我是黄玄（a.k.a. Hux, _@huxpro_），一个略懂计算机科学与艺术的斜杆不动青年，自诩是一个[广院](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6)数字媒体艺术系与 RIT 计算机科学系（师从 [Prof. Matthew Fluet](https://www.cs.rit.edu/~mtf/) 专攻编程语言）杂交出来的[黑客与画家](https://book.douban.com/subject/6021440/)。
 

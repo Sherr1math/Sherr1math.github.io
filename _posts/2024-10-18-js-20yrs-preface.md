@@ -31,10 +31,10 @@ This is the first class of Complex Analysis, hosted by *Tang Shengxuan*. In this
 
 And there are also included: Some **examples** of new concept and **exercises**.
 
-### Partial content display:
+## Partial content display:
 ![](/img/in-post/post-ca/02.jpg)
 
-### Download
+## Download
 For more information about the 1st Class of Complex Analysis, please refer to the following sources(Chinese version):
 
 [Complex Analysis](/files/Complex%20Analysis.pdf) (Begin from page **2** to page **10**)
