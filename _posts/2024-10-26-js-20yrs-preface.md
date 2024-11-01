@@ -4,7 +4,8 @@ title: "Complex Analysis 2"
 subtitle: "Eidted by Sherr1"
 author: "Sherr1"
 header-style: text
-header-img: "/img/post-gai.png"
+date: 2024-10-26
+header-img: "img/post-bg-girl.jpg"
 catalog: false
 tags:
   - Complex Analysis
