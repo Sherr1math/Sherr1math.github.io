@@ -4,7 +4,8 @@ title: "Complex Analysis 1"
 subtitle: "Eidted by Sherr1"
 author: "Sherr1"
 header-style: text
-catalog: false
+header-img: "img/post-bg-os-metro.jpg"
+catalog: true
 tags:
   - Complex Analysis
 ---

@@ -4,9 +4,7 @@ title: "Complex Analysis 2"
 subtitle: "Eidted by Sherr1"
 author: "Sherr1"
 header-style: text
-date: 2024-10-26
-header-img: "img/post-bg-girl.jpg"
-catalog: false
+catalog: true
 tags:
   - Complex Analysis
 ---
