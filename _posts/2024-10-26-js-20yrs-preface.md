@@ -3,7 +3,8 @@ layout: post
 title: "Complex Analysis 2"
 subtitle: "Eidted by Sherr1"
 author: "Sherr1"
-header-style: text
+# header-style: text
+header-img: "img/bg.jpg"
 catalog: true
 tags:
   - Complex Analysis
