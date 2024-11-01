@@ -15,7 +15,7 @@ Partial content display:
 
 ![](/img/in-post/post-ca/11.jpg)
 
-For more information about the 1st Class of Complex Analysis, please refer to the following sources(Chinese version):
+For more information about the 2nd Class of Complex Analysis, please refer to the following sources(Chinese version):
 
 [Complex Analysis](/files/Complex%20Analysis.pdf) (begin from page **11**)
 
