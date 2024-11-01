@@ -11,7 +11,7 @@ tags:
 
 Partial content display:
 
-![](/img/in-post/post-ca/_页面_02.jpg)
+![](/img/in-post/post-ca/02.jpg)
 
 For more information about the 1st Class of Complex Analysis, please refer to the following sources(Chinese version):
 
