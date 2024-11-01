@@ -75,7 +75,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "A student from School of Mathematical Sciences, Nankai University. <br> Just want to be..."
-sidebar-avatar: img/Sherry1.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/avatar-Sherry1.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -91,6 +91,6 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "陈昱达", href: "https://tucydabc.github.io/" },
+    { title: "Yuda Chen", href: "https://tucydabc.github.io/" },
     # { title: "乱序（Midare）", href: "http://mida.re/" },
   ]
