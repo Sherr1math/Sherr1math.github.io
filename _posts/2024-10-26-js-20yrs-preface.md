@@ -6,6 +6,7 @@ author: "Sherr1"
 # header-style: text
 header-img: "img/pbg.jpg"
 catalog: true
+mathjax: true
 tags:
   - Complex Analysis
 ---
