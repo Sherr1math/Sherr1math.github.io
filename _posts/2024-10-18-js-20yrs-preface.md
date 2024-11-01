@@ -4,7 +4,7 @@ title: "Complex Analysis 1"
 subtitle: "Eidted by Sherr1"
 author: "Sherr1"
 # header-style: text
-header-img: "img/pbg.jpg"
+header-img: "img/bg1.png"
 catalog: true
 mathjax: true
 tags:
