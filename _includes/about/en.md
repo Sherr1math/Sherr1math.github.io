@@ -1,15 +1,11 @@
 Hello, I am **Sherr1**, a sophomore from the School of Mathematical Sciences, Nankai University. My hometown is Quanzhou, Fujian Province.
 
 ##### Educational experience
-Kindergarten: Jinjiang Experimental Kindergarten
-
-Primary School: Jinjiang Experimental Primary School
-
-Middle School: Jinjiang No.1 Middle School (Middle School)
-
-Senior High School: Jinjiang No.1 Middle School (Senior High School)
-
-Undergraduate: School of Mathematical Sciences, Nankai University
+- Kindergarten · Jinjiang Experimental Kindergarten
+- Primary School · Jinjiang Experimental Primary School
+- Middle School · Jinjiang No.1 Middle School (Middle School)
+- Senior High School · Jinjiang No.1 Middle School (Senior High School)
+- Undergraduate · School of Mathematical Sciences, Nankai University
 
 <!-- Hey, I am Huang, Xuan (a.k.a. _@huxpro_). I worked on the [React Team](https://beta.reactjs.org/community/meet-the-team#react-core) at <del>Facebook</del>Meta.
 
