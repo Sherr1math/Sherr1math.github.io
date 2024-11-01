@@ -4,7 +4,7 @@ title: "Complex Analysis 1"
 subtitle: "The 1st Class"
 author: "Sherr1"
 # header-style: text
-header-img: "img/asuka.png"
+header-img: "img/bg5.jpg"
 catalog: true
 mathjax: true
 tags:
@@ -32,7 +32,6 @@ This is the first class of Complex Analysis, hosted by *Tang Shengxuan*. In this
 And there are also included: Some **examples** of new concept and **exercises**.
 
 ### Partial content display:
-
 ![](/img/in-post/post-ca/02.jpg)
 
 ### Download

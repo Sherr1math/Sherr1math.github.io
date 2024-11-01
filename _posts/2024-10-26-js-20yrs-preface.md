@@ -4,7 +4,7 @@ title: "Complex Analysis 2"
 subtitle: "The 2nd Class"
 author: "Sherr1"
 # header-style: text
-header-img: "img/asuka.png"
+header-img: "img/bg5.jpg"
 catalog: true
 mathjax: true
 tags:
@@ -27,7 +27,6 @@ This is the second class of Complex Analysis, hosted by *Tang Shengxuan*. In thi
 ##### Open Mapping Theorem
 
 ### Partial content display:
-
 ![](/img/in-post/post-ca/11.jpg)
 
 ### Download
