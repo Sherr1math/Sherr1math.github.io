@@ -11,7 +11,7 @@ tags:
   - Complex Analysis
 ---
 ## Introduction
-This is the first class of Complex Analysis, hosted by *Tang Shengxuan*. In this class, we will focus on the following topics:
+This is the first class of Complex Analysis, hosted by *Shengxuan Tang*. In this class, we will focus on the following topics:
 
 **The sequences of holomorphism**
 - Pointwise Convergence

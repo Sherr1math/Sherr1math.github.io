@@ -1,10 +1,10 @@
-Hello, I am **Sherr1**, a sophomore from the School of Mathematical Sciences, Nankai University. My hometown is Quanzhou, Fujian Province.
+Hello, I am **Sherr1 Young**, a sophomore from *the School of Mathematical Sciences, Nankai University*. My hometown is *Quanzhou, Fujian Province*.
 
 ##### Educational experience
 - Kindergarten · Jinjiang Experimental Kindergarten
 - Primary School · Jinjiang Experimental Primary School
-- Middle School · [Jinjiang No.1 Middle School (Middle School)](https://zhxy.jjyz.net/website/1d91479b32a4b30097891c8369b7b1cc)
-- Senior High School · [Jinjiang No.1 Middle School (Senior High School)](https://zhxy.jjyz.net/website/1d91479b32a4b30097891c8369b7b1cc)
+- Middle School · Jinjiang No.1 Middle School (Middle School)
+- Senior High School · Jinjiang No.1 Middle School (Senior High School)
 - Undergraduate · [School of Mathematical Sciences, Nankai University](https://math.nankai.edu.cn/)
 
 ##### Awards

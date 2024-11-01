@@ -11,7 +11,7 @@ tags:
   - Complex Analysis
 ---
 ## Introduction
-This is the second class of Complex Analysis, hosted by *Tang Shengxuan*. In this class, we will focus on the following topics:
+This is the second class of Complex Analysis, hosted by *Shengxuan Tang*. In this class, we will focus on the following topics:
 
 **Essential Singularity**
 - *Casorati Weierstrass* Theorem
