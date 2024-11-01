@@ -1,9 +1,9 @@
 # Site settings
-title: Sherr1
+title: nku-Sherr1
 SEOTitle: nkuSherr1
 header-img: img/bg1.png
 email: nkuSherr1@gmail.com
-description: "This is the personal website of nkuSherr1."
+description: "Learning math & Sharing math"
 keyword: "Analysis"
 url: "https://Sherr1math.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -92,4 +92,5 @@ page-mathjax: false
 friends:
   [
     { title: "Yuda Chen", href: "https://tucydabc.github.io/" },
+    { title: "Yihan Yang", href: "https://yyhmuke.com/" },
   ]
