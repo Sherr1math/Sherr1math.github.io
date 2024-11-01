@@ -4,7 +4,7 @@ title: "Complex Analysis 2"
 subtitle: "The 2nd Class"
 author: "Sherr1"
 # header-style: text
-header-img: "img/abg.jpg"
+header-img: "img/asuka.png"
 catalog: true
 mathjax: true
 tags:
@@ -12,17 +12,24 @@ tags:
 ---
 ## Introduction
 This is the second class of Complex Analysis, hosted by *Tang Shengxuan*. In this class, we will focus on the following topics:
+
 ##### Essential Singularity
 - *Casorati Weierstrass* Theorem
 - Meromorphic Function
 - Holomorphism
 - Calculation of Residue
+
 ##### Argument Principle
+
 ##### Rouche Theorem
 - Fundamental Theorem of Algebra
+
 ##### Open Mapping Theorem
+
 ### Partial content display:
+
 ![](/img/in-post/post-ca/11.jpg)
+
 ### Download
 For more information about the 2nd Class of Complex Analysis, please refer to the following sources(Chinese version):
 

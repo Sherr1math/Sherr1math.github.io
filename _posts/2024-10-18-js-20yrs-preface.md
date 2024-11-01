@@ -4,7 +4,7 @@ title: "Complex Analysis 1"
 subtitle: "The 1st Class"
 author: "Sherr1"
 # header-style: text
-header-img: "img/abg.jpg"
+header-img: "img/asuka.png"
 catalog: true
 mathjax: true
 tags:
@@ -12,14 +12,17 @@ tags:
 ---
 ## Introduction
 This is the first class of Complex Analysis, hosted by *Tang Shengxuan*. In this class, we will focus on the following topics:
+
 ##### The sequences of holomorphism
 - Pointwise Convergence
 - Uniformly Convergence
 - Tightly Uniformly Convergence
 - *Theorems*
+
 ##### Power Series
 - Radius of Convergence
 - Isolated Zero Point
+
 ##### Singularity
 - Removable Singularity
 - Polar Point
@@ -27,8 +30,11 @@ This is the first class of Complex Analysis, hosted by *Tang Shengxuan*. In this
 - Residue
 
 And there are also included: Some **examples** of new concept and **exercises**.
+
 ### Partial content display:
+
 ![](/img/in-post/post-ca/02.jpg)
+
 ### Download
 For more information about the 1st Class of Complex Analysis, please refer to the following sources(Chinese version):
 
