@@ -17,5 +17,5 @@ Partial content display:
 
 For more information about the 2nd Class of Complex Analysis, please refer to the following sources(Chinese version):
 
-[Complex Analysis](/files/Complex%20Analysis.pdf) (begin from page **11**)
+[Complex Analysis](/files/Complex%20Analysis.pdf) (begin from page **11** to page **16**)
 
