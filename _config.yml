@@ -1,7 +1,7 @@
 # Site settings
 title: nkuSherr1
 SEOTitle: nkuSherr1
-header-img: img/bg.jpg
+header-img: img/bb.jpg
 email: nkuSherr1@gmail.com
 description: "This is the personal website of nkuSherr1."
 keyword: "Analysis"
@@ -59,10 +59,10 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: Sherr1
+# disqus_username: Sherr1
 
 # Netease settings
-netease_comment: false
+# netease_comment: false
 
 # Analytics settings
 # Baidu Analytics
@@ -75,7 +75,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "A student from School of Mathematical Sciences, Nankai University. <br> Just want to be..."
-#sidebar-avatar: img/avatar-Sherry1.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/Sherr1math.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
