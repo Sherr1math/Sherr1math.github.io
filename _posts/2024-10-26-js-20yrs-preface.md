@@ -13,18 +13,18 @@ tags:
 ## Introduction
 This is the second class of Complex Analysis, hosted by *Tang Shengxuan*. In this class, we will focus on the following topics:
 
-##### Essential Singularity
+**Essential Singularity**
 - *Casorati Weierstrass* Theorem
 - Meromorphic Function
 - Holomorphism
 - Calculation of Residue
 
-##### Argument Principle
+**Argument Principle**
 
-##### Rouche Theorem
+**Rouche Theorem**
 - Fundamental Theorem of Algebra
 
-##### Open Mapping Theorem
+**Open Mapping Theorem**
 
 ### Partial content display:
 ![](/img/in-post/post-ca/11.jpg)

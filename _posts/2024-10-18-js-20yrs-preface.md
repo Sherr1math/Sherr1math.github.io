@@ -13,17 +13,17 @@ tags:
 ## Introduction
 This is the first class of Complex Analysis, hosted by *Tang Shengxuan*. In this class, we will focus on the following topics:
 
-##### The sequences of holomorphism
+**The sequences of holomorphism**
 - Pointwise Convergence
 - Uniformly Convergence
 - Tightly Uniformly Convergence
 - *Theorems*
 
-##### Power Series
+**Power Series**
 - Radius of Convergence
 - Isolated Zero Point
 
-##### Singularity
+**Singularity**
 - Removable Singularity
 - Polar Point
 - Essential Singularity
