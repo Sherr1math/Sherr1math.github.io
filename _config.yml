@@ -1,7 +1,7 @@
 # Site settings
 title: Sherr1
 SEOTitle: nkuSherr1
-header-img: img/Home_1.png
+header-img: img/Home_3.jpg
 email: nkuSherr1@gmail.com
 description: "Learning math and Sharing math"
 keyword: "Analysis"
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: Sherr1
+disqus_username: hux
 
 # Netease settings
 netease_comment: false
@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "G-2331645GJL" # Format: UA-xxxxxx-xx
-ga_domain: Sherr1math.github.io
+ga_domain: auto
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
