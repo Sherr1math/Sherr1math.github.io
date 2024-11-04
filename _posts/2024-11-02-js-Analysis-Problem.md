@@ -4,7 +4,7 @@ title: "Analysis Problem 1"
 subtitle: "A Series Problem"
 author: "Sherr1"
 # header-style: text
-header-img: "img/homebg.png"
+header-img: "img/dragongirl.jpg"
 catalog: true
 mathjax: true
 tags:
