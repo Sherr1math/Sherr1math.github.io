@@ -8,10 +8,10 @@ Hello, I am **Sherr1 Young**, a sophomore from *the School of Mathematical Scien
 - Undergraduate · [School of Mathematical Sciences, Nankai University](https://math.nankai.edu.cn/)
 
 ##### Awards
-- The Examination for the National Senior High School’s Mathematical Competition, **First Prize, Oct. 2022**.
-- The Top Talents in "Elite Program for Senior High School Students", Direction: **Mathematics, Xiamenen, Xiamen University, Jan. 2021**.
-- National Olympiad in Informatics in Provinces,**First Prize, Dec. 2020**.
-- 2016 World Robot Olympiad(WRO) China Final, **Second Place, Aug. 2016**.
+- The Examination for the National Senior High School’s Mathematical Competition, **First Prize, _Oct. 2022_**.
+- The Top Talents in "Elite Program for Senior High School Students", Direction: **Mathematics, _Xiamenen, Xiamen University, Jan. 2021_**.
+- National Olympiad in Informatics in Provinces,**First Prize, _Dec. 2020_**.
+- 2016 World Robot Olympiad(WRO) China Final, **Second Place, _Aug. 2016_**.
 
 ##### Contact Information
 - **Wechat**: nkuAlexYk
