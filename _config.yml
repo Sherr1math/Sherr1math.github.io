@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: 7565960091
+# weibo_username: 7565960091
 zhihu_username: yang-kun-37-58
 github_username: Sherr1math
 twitter_username: nkuSherr1
