@@ -9,6 +9,7 @@ catalog: true
 mathjax: true
 tags:
   - Complex Analysis
+  - Seminar
 ---
 ## Introduction
 This is the second class of Complex Analysis, hosted by *Shengxuan Tang*. In this class, we will focus on the following topics:
