@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Practice1 of 2024 CHSML"
+title: "Practice 1 of 2024 CHSML"
 subtitle: "The preparation of CHSML"
 author: "Sherr1"
 # header-style: text
