@@ -13,7 +13,9 @@ tags:
 ---
 
 ## Introduction
-In the summer of 2024, I got a teaching assistant job to guide high school students in participating in the Chinese High School Mathematics League(**CHSML**). Here are two sample test questions and my solutions during my tenure as a teaching assistant.
+In the summer of 2024, I got a teaching assistant job to guide high school students in participating in the Chinese High School Mathematics League(**CHSML**).
+
+Here are two sample test questions and my solutions during my tenure as a teaching assistant.
 
 ## Test 1
 The types of questions in this test are **Algebraic** and **Number Theory** problems.
