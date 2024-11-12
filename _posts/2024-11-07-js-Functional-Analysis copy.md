@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Functional Analysis"
+title: "Functional Analysis 1"
 subtitle: "The 1st Part"
 author: "Sherr1"
 # header-style: text
