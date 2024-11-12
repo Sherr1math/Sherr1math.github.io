@@ -4,7 +4,7 @@ title: "Analysis Problem 1"
 subtitle: "A Series Problem"
 author: "Sherr1"
 # header-style: text
-header-img: "img/bg6.png"
+header-img: "img/pbg.jpg"
 catalog: true
 mathjax: true
 tags:
@@ -26,7 +26,7 @@ $$ \displaystyle\sum_{n=1}^{\infty}\frac{\cos\sqrt{n}}{n^{\alpha}} $$
 
 ## Problem from Textbook
 For the more information about the following problem, you can refer to the book *Mathematical-analysis-III of Nankai University* **Exercise 14(B)-13**.
-___
+
 **Problem**
 
 设$\alpha\in(0,1)$，$p>max\lbrace\alpha,1-\alpha\rbrace$，则
