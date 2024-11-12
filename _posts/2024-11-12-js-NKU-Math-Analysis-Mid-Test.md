@@ -36,9 +36,7 @@ $$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})}{\sqrt{n}}-\sum_{
 $$\sum_{n=1}^{+\infty}\left|\frac{\cos\theta_n}{n^2\sqrt{n}}\right|\leq\sum_{n=1}^{+\infty}\frac{1}{n^2\sqrt{n}}$$
 
 而$\displaystyle\sum_{n=1}^{+\infty}\frac{1}{n^2\sqrt{n}}$收敛，故
-
 $$\displaystyle\sum_{n=1}^{+\infty}\left|\frac{\cos\theta_n}{n^2\sqrt{n}}\right|$$
-
 收敛，故$\displaystyle\sum_{n=1}^{+\infty}\frac{\cos\theta_n}{n^2\sqrt{n}}$收敛，即有$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})}{\sqrt{n}}$收敛.
 
 ##### Solution 1-(1)-2
