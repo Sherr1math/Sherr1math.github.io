@@ -35,14 +35,15 @@ $$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})}{\sqrt{n}}-\sum_{
 
 $$\sum_{n=1}^{+\infty}\left|\frac{\cos\theta_n}{n^2\sqrt{n}}\right|\leq\sum_{n=1}^{+\infty}\frac{1}{n^2\sqrt{n}}$$
 
-而$\displaystyle\sum_{n=1}^{+\infty}\frac{1}{n^2\sqrt{n}}$收敛，故$\displaystyle\sum_{n=1}^{+\infty}\left|\frac{\cos\theta_n}{n^2\sqrt{n}}\right|$收敛，故$\displaystyle\sum_{n=1}^{+\infty}\frac{\cos\theta_n}{n^2\sqrt{n}}$收敛，即有$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})}{\sqrt{n}}$收敛.
+而$\displaystyle\sum_{n=1}^{+\infty}\frac{1}{n^2\sqrt{n}}$收敛，故$\displaystyle\sum_{n=1}^{+\infty}|\frac{\cos\theta_n}{n^2\sqrt{n}}|$收敛，故$\displaystyle\sum_{n=1}^{+\infty}\frac{\cos\theta_n}{n^2\sqrt{n}}$收敛，即有$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})}{\sqrt{n}}$收敛.
 
 ##### Solution 1-(1)-2
 $$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})}{\sqrt{n}}=\sum_{n=1}^{+\infty}\frac{\sin n\cos\frac{1}{n^2}}{\sqrt{n}}+\sum_{n=1}^{+\infty}\frac{\cos n\sin\frac{1}{n^2}}{\sqrt{n}}$$
 
-由于$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin n}{\sqrt{n}}$收敛，$\displaystyle\cos\frac{1}{n^2}$单调有界，故由\textbf{Abel判别法}可知$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin n\cos\frac{1}{n^2}}{\sqrt{n}}$收敛.
+由于$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin n}{\sqrt{n}}$收敛，$\displaystyle\cos\frac{1}{n^2}$单调有界，故由**Abel判别法**可知$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin n\cos\frac{1}{n^2}}{\sqrt{n}}$收敛.
 
-由于$\displaystyle\left|\frac{\cos n\sin\frac{1}{n^2}}{\sqrt{n}}\right|\leq\left|\frac{sin\frac{1}{n^2}}{\sqrt{n}}\right|\leq\frac{1}{n^2\sqrt{n}}$且$\displaystyle\sum_{n=1}^{+\infty}\frac{1}{n^2\sqrt{n}}$收敛，故$\displaystyle\sum_{n=1}^{+\infty}\frac{\cos n\sin\frac{1}{n^2}}{\sqrt{n}}$收敛.
+由于
+$$\displaystyle\left|\frac{\cos n\sin\frac{1}{n^2}}{\sqrt{n}}\right|\leq\left|\frac{sin\frac{1}{n^2}}{\sqrt{n}}\right|\leq\frac{1}{n^2\sqrt{n}}$$且$\displaystyle\sum_{n=1}^{+\infty}\frac{1}{n^2\sqrt{n}}$收敛，故$\displaystyle\sum_{n=1}^{+\infty}\frac{\cos n\sin\frac{1}{n^2}}{\sqrt{n}}$收敛.
 
 又由于
     $$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})}{\sqrt{n}}=\sum_{n=1}^{+\infty}\frac{\sin n\cos\frac{1}{n^2}}{\sqrt{n}}+\sum_{n=1}^{+\infty}\frac{\cos n\sin\frac{1}{n^2}}{\sqrt{n}}$$
@@ -92,11 +93,13 @@ $$\iint_{x^2+y^2\geq1}\frac{1}{2(x^2+y^2)}dxdy=\int_{0}^{2\pi}d\theta\int_{1}^{+
 故矛盾，即$\displaystyle\iint_{x^2+y^2\geq1}\frac{\cos(x^2)}{x^2+y^2}dxdy$发散.
 
 ##### Solution 2-2
+
 $$\iint_{x^2+y^2\geq1}\frac{\left|\cos(x^2)\right|}{x^2+y^2}dxdy=\lim_{A\rightarrow+\infty}\int_{0}^{2\pi}d\theta\int_{1}^{A}\frac{\left|\cos(r^2\cos^2\theta)\right|}{r^2}rdr\quad(\clubsuit)$$
 
-令$r=\frac{\sqrt{t}}{\left|\cos\theta\right|}$，则$dr=\frac{1}{2\sqrt{t}}\frac{1}{\left|\cos\theta\right|}$，代入$(\clubsuit)$式，我们有：
+令$$r=\displaystyle\frac{\sqrt{t}}{\left|\cos\theta\right|}$$，则$$\displaystyle dr=\frac{1}{2\sqrt{t}}\frac{1}{\left|\cos\theta\right|}$$，代入$(\clubsuit)$式，我们有：
 
-$$\lim_{A\rightarrow+\infty}\int_{0}^{2\pi}d\theta\int_{1}^{A}\frac{\left|\cos(r^2\cos^2\theta)\right|}{r^2}rdr\geq\lim_{A\rightarrow+\infty}\int_{0}^{2\pi}d\theta\int_{1}^{\frac{1}{2}A^2}\frac{\left|\cos t\right|}{\frac{\sqrt{t}}{\left|\cos\theta\right|}}\frac{1}{2\sqrt{t}}\frac{1}{\left|\cos\theta\right|}\geq2\pi\int_{1}^{\frac{1}{2}A^2}\frac{\left|\cos t\right|}{t}dt\quad\text{发散}$$
+$$\begin{aligned}\lim_{A\rightarrow+\infty}\int_{0}^{2\pi}d\theta\int_{1}^{A}\frac{\left|\cos(r^2\cos^2\theta)\right|}{r^2}rdr&\geq\lim_{A\rightarrow+\infty}\int_{0}^{2\pi}d\theta\int_{1}^{\frac{1}{2}A^2}\frac{\left|\cos t\right|}{\frac{\sqrt{t}}{\left|\cos\theta\right|}}\frac{1}{2\sqrt{t}}\frac{1}{\left|\cos\theta\right|}\\
+&\geq2\pi\int_{1}^{\frac{1}{2}A^2}\frac{\left|\cos t\right|}{t}dt\quad\text{发散}\end{aligned}$$
 
 故$\displaystyle\iint_{x^2+y^2\geq1}\frac{\cos(x^2)}{x^2+y^2}dxdy$发散.
 
@@ -163,7 +166,7 @@ $$a_{n+1}=\arctan a_n\quad\arctan x\sim x-\frac{1}{3}x^3+o(x^3)$$
 
 $$\lim_{n\rightarrow\infty}\frac{a_n^r}{n}=\lim_{n\rightarrow\infty}\frac{a_{n+1}^r-a_n^r}{n+1-n}=\lim_{n\rightarrow\infty}\frac{r\theta_n^{r-1}(a_{n+1}-a_n)}{1}=\lim_{n\rightarrow\infty}ra_n^{r-1}(-\frac{1}{3}a_n^3)=-\frac{r}{3}\lim_{n\rightarrow\infty}a_n^{r+2}$$
 
-取$r=-2$有$\lim_{n\rightarrow\infty}\frac{a_n^{-2}}{n}=\frac{2}{3}\Rightarrow a_n\sim\sqrt{\frac{2}{3n}}\Rightarrow\sum_{n=1}^{+\infty}a_n$\textbf{发散}.
+取$r=-2$有$\lim_{n\rightarrow\infty}\frac{a_n^{-2}}{n}=\frac{2}{3}\Rightarrow a_n\sim\sqrt{\frac{2}{3n}}\Rightarrow\sum_{n=1}^{+\infty}a_n$**发散**.
 
 #### Exercise 5
 判断下列积分的收敛性
@@ -172,8 +175,10 @@ $$\int_{0}^{+\infty}(-1)^{\left[x^3\right]}dx$$
 
 ##### Solution 5
 显然这是一个**非绝对收敛**的积分.
-    $$\int_{0}^{+\infty}(-1)^{\left[x^3\right]}dx=\sum_{n=0}^{+\infty}\int_{\sqrt[3]{n}}^{\sqrt[3]{n+1}}(-1)^ndx=\sum_{n=0}^{+\infty}\left((n+1)^{\frac{1}{3}}-n^{\frac{1}{3}}\right)(-1)^n=\sum_{n=0}^{+\infty}\frac{1}{3\sqrt[3]{\theta_n^2}}$$
-    其中$n\leq\theta_n\leq n+1$，故由$Libiniz$判别法知收敛，即$\displaystyle\int_{0}^{+\infty}(-1)^{\left[x^3\right]}dx$**条件收敛**.
+
+$$\int_{0}^{+\infty}(-1)^{\left[x^3\right]}dx=\sum_{n=0}^{+\infty}\int_{\sqrt[3]{n}}^{\sqrt[3]{n+1}}(-1)^ndx=\sum_{n=0}^{+\infty}\left((n+1)^{\frac{1}{3}}-n^{\frac{1}{3}}\right)(-1)^n=\sum_{n=0}^{+\infty}\frac{1}{3\sqrt[3]{\theta_n^2}}$$
+
+其中$n\leq\theta_n\leq n+1$，故由$Libiniz$判别法知收敛，即$\displaystyle\int_{0}^{+\infty}(-1)^{\left[x^3\right]}dx$**条件收敛**.
 
 #### Exercise 6
 设$G$为$\mathbb{R}^2$上的有界闭区域，$\partial G$由有线条分段光滑的简单闭曲线构成，假设$u\in C^2(G)$，且$u$在边界上恒为$0$，证明对$\forall\lambda\gt0$，
@@ -182,14 +187,21 @@ $$\lambda\int_{G}u^2dxdy+\frac{1}{\lambda}\int_{G}\left(\frac{\partial^2 u}{\par
 
 ##### Solution 6
 由于$u$在$\partial G$上恒为$0$，故由$Green Formula$有
-    $$0=\int_{\partial G}u(u_xdy-u_ydx)=\iint_{G}(u_x^2+u_y^2+u\cdot u_{xx}+u\cdot u_{yy})dxdy\Rightarrow\iint_{G}(u_x^2+u_y^2)dxdy=\iint_{G}-u(u_{xx}+u_{yy})dxdy$$
-    由$Cauchy-Schwart$积分不等式有：
-    $$\begin{aligned}
+
+$$0=\int_{\partial G}u(u_xdy-u_ydx)=\iint_{G}(u_x^2+u_y^2+u\cdot u_{xx}+u\cdot u_{yy})dxdy$$
+
+$$\Rightarrow\iint_{G}(u_x^2+u_y^2)dxdy=\iint_{G}-u(u_{xx}+u_{yy})dxdy$$
+
+由$Cauchy-Schwart$积分不等式有：
+
+$$\begin{aligned}
     &\lambda\int_{G}u^2dxdy+\frac{1}{\lambda}\int_{G}\left(\frac{\partial^2 u}{\partial x^2}+\frac{\partial^2 u}{\partial y^2}\right)dxdy\geq2\iint_{G}\left|u(u_{xx}+u_{yy})\right|dxdy\\
     \geq&2\iint_{G}-u(u_{xx}+u_{yy})dxdy=2\iint_{G}(u_x^2+u_y^2)dxdy=2\int_{G}\left(\frac{\partial u}{\partial x}\right)^2+\left(\frac{\partial u}{\partial y}\right)^2dxdy
-    \end{aligned}$$
-    故综上：
-    $$\lambda\int_{G}u^2dxdy+\frac{1}{\lambda}\int_{G}\left(\frac{\partial^2 u}{\partial x^2}+\frac{\partial^2 u}{\partial y^2}\right)dxdy\geq2\int_{G}\left(\frac{\partial u}{\partial x}\right)^2+\left(\frac{\partial u}{\partial y}\right)^2dxdy$$
+\end{aligned}$$
+
+故综上：
+
+$$\lambda\int_{G}u^2dxdy+\frac{1}{\lambda}\int_{G}\left(\frac{\partial^2 u}{\partial x^2}+\frac{\partial^2 u}{\partial y^2}\right)dxdy\geq2\int_{G}\left(\frac{\partial u}{\partial x}\right)^2+\left(\frac{\partial u}{\partial y}\right)^2dxdy$$
 
 ## Solution for PDF
 Click [Here](/files/Exam/Exam2024Fall-NKU-Analysis-Mid-Exam-Solution.pdf) and get the solution of this exam.
