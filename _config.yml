@@ -76,7 +76,7 @@ ga_domain: http://Sherr1math.top
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "Sherr1 Young. <br> A sophomore from School of Mathematical Sciences, Nankai University. <br> Just want to be... <br> Three-Squirrels-Club"
+sidebar-about-description: "Sherr1 Young. <br> A sophomore from School of Mathematical Sciences, Nankai University. <br> Just want to be... <br> @Three-Squirrels-Club"
 sidebar-avatar: https://github.com/Sherr1math.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
