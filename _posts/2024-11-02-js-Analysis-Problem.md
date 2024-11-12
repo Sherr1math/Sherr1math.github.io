@@ -4,7 +4,7 @@ title: "Analysis Problem 1"
 subtitle: "A Series Problem"
 author: "Sherr1"
 # header-style: text
-header-img: "img/pbg.jpg"
+header-img: "img/bg7.png"
 catalog: true
 mathjax: true
 tags:
@@ -31,7 +31,9 @@ For the more information about the following problem, you can refer to the book 
 
 设$\alpha\in(0,1)$，$p>max\lbrace\alpha,1-\alpha\rbrace$，则
 
-$$ \displaystyle\sum_{n=1}^{\infty}\frac{\sin n^{\alpha}}{n^p}$$收敛.
+$$ \displaystyle\sum_{n=1}^{\infty}\frac{\sin n^{\alpha}}{n^p}$$
+
+收敛.
 
 ## Solution
 <!-- Click [Here](/files/Problems/Problem2024.11.02两个级数问题.pdf) and get the solution about these two similar series problems. -->
