@@ -35,7 +35,7 @@ $$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})}{\sqrt{n}}-\sum_{
 
 $$\sum_{n=1}^{+\infty}\left|\frac{\cos\theta_n}{n^2\sqrt{n}}\right|\leq\sum_{n=1}^{+\infty}\frac{1}{n^2\sqrt{n}}$$
 
-而$\displaystyle\sum_{n=1}^{+\infty}\frac{1}{n^2\sqrt{n}}$收敛，故$\displaystyle\sum_{n=1}^{+\infty}|\frac{\cos\theta_n}{n^2\sqrt{n}}|$收敛，故$\displaystyle\sum_{n=1}^{+\infty}\frac{\cos\theta_n}{n^2\sqrt{n}}$收敛，即有$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})}{\sqrt{n}}$收敛.
+而$\displaystyle\sum_{n=1}^{+\infty}\frac{1}{n^2\sqrt{n}}$收敛，故$$\displaystyle\sum_{n=1}^{+\infty}\left|\frac{\cos\theta_n}{n^2\sqrt{n}}\right|$$收敛，故$\displaystyle\sum_{n=1}^{+\infty}\frac{\cos\theta_n}{n^2\sqrt{n}}$收敛，即有$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})}{\sqrt{n}}$收敛.
 
 ##### Solution 1-(1)-2
 $$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})}{\sqrt{n}}=\sum_{n=1}^{+\infty}\frac{\sin n\cos\frac{1}{n^2}}{\sqrt{n}}+\sum_{n=1}^{+\infty}\frac{\cos n\sin\frac{1}{n^2}}{\sqrt{n}}$$
@@ -131,7 +131,7 @@ $$\int_{1}^{+\infty}\left|\frac{x^p}{1+x^p}x^{q-p}\cos x\right|dx\leq\int_{1}^{+
 
 $$\left|\frac{x^p}{1+x^p}x^{q-p}\cos x\right|\geq\frac{1}{2}x^{q-p}\cos^2x=\frac{1}{4}x^{q-p}(1+\cos 2x)=\frac{1}{4}x^{q-p}+\frac{1}{4}x^{q-p}\cos 2x$$
 
-而$\displaystyle\int_{1}^{+\infty}\frac{1}{4}x^{q-p}dx$发散，$\displaystyle\int_{1}^{+\infty}\frac{1}{4}x^{q-p}\cos 2xdx$由$Dilichlet$判别法易知收敛，故
+而$\displaystyle\int_{1}^{+\infty}\frac{1}{4}x^{q-p}dx$发散，$\displaystyle\int_{1}^{+\infty}\frac{1}{4}x^{q-p}\cos 2xdx$由**Dilichlet判别法**易知收敛，故
 
 $$\int_{1}^{+\infty}\left|\frac{x^p}{1+x^p}x^{q-p}\cos x\right|dx\geq\int_{1}^{+\infty}\frac{1}{4}x^{q-p}dx+\int_{1}^{+\infty}\frac{1}{4}x^{q-p}\cos 2xdx\quad\text{发散}$$
 
@@ -186,13 +186,13 @@ $$\int_{0}^{+\infty}(-1)^{\left[x^3\right]}dx=\sum_{n=0}^{+\infty}\int_{\sqrt[3]
 $$\lambda\int_{G}u^2dxdy+\frac{1}{\lambda}\int_{G}\left(\frac{\partial^2 u}{\partial x^2}+\frac{\partial^2 u}{\partial y^2}\right)dxdy\geq2\int_{G}\left(\frac{\partial u}{\partial x}\right)^2+\left(\frac{\partial u}{\partial y}\right)^2dxdy$$
 
 ##### Solution 6
-由于$u$在$\partial G$上恒为$0$，故由$Green Formula$有
+由于$u$在$\partial G$上恒为$0$，故由**Green公式**有
 
 $$0=\int_{\partial G}u(u_xdy-u_ydx)=\iint_{G}(u_x^2+u_y^2+u\cdot u_{xx}+u\cdot u_{yy})dxdy$$
 
 $$\Rightarrow\iint_{G}(u_x^2+u_y^2)dxdy=\iint_{G}-u(u_{xx}+u_{yy})dxdy$$
 
-由$Cauchy-Schwart$积分不等式有：
+由**Cauchy-Schwart积分不等式**有：
 
 $$\begin{aligned}
     &\lambda\int_{G}u^2dxdy+\frac{1}{\lambda}\int_{G}\left(\frac{\partial^2 u}{\partial x^2}+\frac{\partial^2 u}{\partial y^2}\right)dxdy\geq2\iint_{G}\left|u(u_{xx}+u_{yy})\right|dxdy\\
