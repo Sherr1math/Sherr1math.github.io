@@ -35,7 +35,11 @@ $$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})}{\sqrt{n}}-\sum_{
 
 $$\sum_{n=1}^{+\infty}\left|\frac{\cos\theta_n}{n^2\sqrt{n}}\right|\leq\sum_{n=1}^{+\infty}\frac{1}{n^2\sqrt{n}}$$
 
-而$\displaystyle\sum_{n=1}^{+\infty}\frac{1}{n^2\sqrt{n}}$收敛，故$$\displaystyle\sum_{n=1}^{+\infty}\left|\frac{\cos\theta_n}{n^2\sqrt{n}}\right|$$收敛，故$\displaystyle\sum_{n=1}^{+\infty}\frac{\cos\theta_n}{n^2\sqrt{n}}$收敛，即有$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})}{\sqrt{n}}$收敛.
+而$\displaystyle\sum_{n=1}^{+\infty}\frac{1}{n^2\sqrt{n}}$收敛，故
+
+$$\displaystyle\sum_{n=1}^{+\infty}\left|\frac{\cos\theta_n}{n^2\sqrt{n}}\right|$$
+
+收敛，故$\displaystyle\sum_{n=1}^{+\infty}\frac{\cos\theta_n}{n^2\sqrt{n}}$收敛，即有$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})}{\sqrt{n}}$收敛.
 
 ##### Solution 1-(1)-2
 $$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})}{\sqrt{n}}=\sum_{n=1}^{+\infty}\frac{\sin n\cos\frac{1}{n^2}}{\sqrt{n}}+\sum_{n=1}^{+\infty}\frac{\cos n\sin\frac{1}{n^2}}{\sqrt{n}}$$
@@ -96,7 +100,9 @@ $$\iint_{x^2+y^2\geq1}\frac{1}{2(x^2+y^2)}dxdy=\int_{0}^{2\pi}d\theta\int_{1}^{+
 
 $$\iint_{x^2+y^2\geq1}\frac{\left|\cos(x^2)\right|}{x^2+y^2}dxdy=\lim_{A\rightarrow+\infty}\int_{0}^{2\pi}d\theta\int_{1}^{A}\frac{\left|\cos(r^2\cos^2\theta)\right|}{r^2}rdr\quad(\clubsuit)$$
 
-令$$r=\displaystyle\frac{\sqrt{t}}{\left|\cos\theta\right|}$$，则$$\displaystyle dr=\frac{1}{2\sqrt{t}}\frac{1}{\left|\cos\theta\right|}$$，代入$(\clubsuit)$式，我们有：
+令
+$$r=\displaystyle\frac{\sqrt{t}}{\left|\cos\theta\right|}$$
+则$$\displaystyle dr=\frac{1}{2\sqrt{t}}\frac{1}{\left|\cos\theta\right|}$$，代入$(\clubsuit)$式，我们有：
 
 $$\begin{aligned}\lim_{A\rightarrow+\infty}\int_{0}^{2\pi}d\theta\int_{1}^{A}\frac{\left|\cos(r^2\cos^2\theta)\right|}{r^2}rdr&\geq\lim_{A\rightarrow+\infty}\int_{0}^{2\pi}d\theta\int_{1}^{\frac{1}{2}A^2}\frac{\left|\cos t\right|}{\frac{\sqrt{t}}{\left|\cos\theta\right|}}\frac{1}{2\sqrt{t}}\frac{1}{\left|\cos\theta\right|}\\
 &\geq2\pi\int_{1}^{\frac{1}{2}A^2}\frac{\left|\cos t\right|}{t}dt\quad\text{发散}\end{aligned}$$
