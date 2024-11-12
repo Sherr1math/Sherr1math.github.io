@@ -25,7 +25,8 @@ For the more information about the following problem, you can refer to the book 
 > $$ \displaystyle\sum_{n=1}^{\infty}\frac{\sin n^{\alpha}}{n^p}\text{收敛} $$
 
 ## Solution
-Click [Here](/files/Problem2024.11.02.pdf) and get the solution about these two similar series problems.
+<!-- Click [Here](/files/Problems/Problem2024.11.02两个级数问题.pdf) and get the solution about these two similar series problems. -->
+Click Here and get the solution about these two similar series problems.
 
 ## Remark
 Actually it's a test for checking the ability of posting a problem...
