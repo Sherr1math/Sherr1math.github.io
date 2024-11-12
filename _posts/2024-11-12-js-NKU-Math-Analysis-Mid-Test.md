@@ -22,10 +22,19 @@ On the whole, the difficulty level of this test is between that of last year and
 #### Exercise 1
 研究下列级数的收敛性
 
-$$(1)\quad\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n})}{\sqrt{n}}$$ $$(2)\quad\displaystyle\sum_{n=1}^{+\infty}\Big(\big(1+\frac{1}{n+1}\big)^{2n}-\big(1+\frac{2}{n+a}\big)^{n}\Big)$$
+$$(1)\quad\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n})}{\sqrt{n}}$$
+
+$$(2)\quad\displaystyle\sum_{n=1}^{+\infty}\Big(\big(1+\frac{1}{n+1}\big)^{2n}-\big(1+\frac{2}{n+a}\big)^{n}\Big)$$
 
 ##### Solution (1)-1
+已知$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin n}{\sqrt{n}}$ 收敛，考虑：
+\[\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})}{\sqrt{n}}-\sum_{n=1}^{+\infty}\frac{\sin n}{\sqrt{n}}=\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})-\sin n}{\sqrt{n}}=\sum_{n=1}^{+\infty}\frac{\cos\theta_n}{n^2\sqrt{n}}\]
 
+又
+
+\[\sum_{n=1}^{+\infty}\left|\frac{\cos\theta_n}{n^2\sqrt{n}}\right|\leq\sum_{n=1}^{+\infty}\frac{1}{n^2\sqrt{n}}\]
+
+而$\displaystyle\sum_{n=1}^{+\infty}\frac{1}{n^2\sqrt{n}}$收敛，故$\displaystyle\sum_{n=1}^{+\infty}\left|\frac{\cos\theta_n}{n^2\sqrt{n}}\right|$收敛，故$\displaystyle\sum_{n=1}^{+\infty}\frac{\cos\theta_n}{n^2\sqrt{n}}$收敛，即有$\displaystyle\sum_{n=1}^{+\infty}\frac{\sin(n+\frac{1}{n^2})}{\sqrt{n}}$收敛.
 #### Exercise 2
 判断下列积分的收敛性
 

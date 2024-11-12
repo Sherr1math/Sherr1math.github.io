@@ -22,7 +22,9 @@ For the more information about the following problem, you can refer to the book 
 
 $$\int_{\Omega}\frac{1}{\displaystyle\sum_{i=1}^{n}\left|x_i\right|^p_i}dx_1...dx_n,p_i>0,i=1,2,...,n$$
 
-$$\textbf{(a)}\Omega:\sum_{i=1}^{n}\left|x_i\right|\leq1$$ $$\textbf{(b)}\Omega:\sum_{i=1}^{n}\left|x_i\right|\gt1$$
+$$\textbf{(a)}\Omega:\sum_{i=1}^{n}\left|x_i\right|\leq1$$
+
+$$\textbf{(b)}\Omega:\sum_{i=1}^{n}\left|x_i\right|\gt1$$
 
 #### Exercise 2
 For the more information about the following problem, you can refer to the book *Mathematical-analysis-III of Nankai University* **Exercise 15(B)-15**.
