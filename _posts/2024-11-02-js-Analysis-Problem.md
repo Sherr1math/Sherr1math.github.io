@@ -16,7 +16,7 @@ tags:
 This is an **analysis problem** from *2022~2023 boling class mathematical-analysis-III mid-term examination paper*. This post will show you the problem and its connecting problem from *Mathematical-analysis-III of Nankai University* **Exercise 14(B)-13**.
 ## Problem from Exercise Paper
 ___
-**Problem**
+#### Problem
 
 设 $\alpha\gt0$，讨论级数
 
@@ -27,7 +27,7 @@ $$ \displaystyle\sum_{n=1}^{\infty}\frac{\cos\sqrt{n}}{n^{\alpha}} $$
 ## Problem from Textbook
 For the more information about the following problem, you can refer to the book *Mathematical-analysis-III of Nankai University* **Exercise 14(B)-13**.
 
-**Problem**
+#### Problem
 
 设$\alpha\in(0,1)$，$p>max\lbrace\alpha,1-\alpha\rbrace$，则
 
