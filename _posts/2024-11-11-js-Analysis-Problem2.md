@@ -28,7 +28,7 @@ For the more information about the following problem, you can refer to the book 
 > $$I=\int_{\mathbb{R}^n}\exp\left(-\sum_{i,j=1}^{n}a_{ij}x_ix_j+2\sum_{i=1}^{n}b_ix_i+c\right)dx_1...dx_n$$
 > 其中$\exp(u)$表示$e^u$.
 ## Solution
-Click [Here](/files/Problems/Problem2024.11.11两个广义重积分问题.pdf) and get the solution about these two Integral Problems.
+Click [Here](/files/Problems/Problem2024.11.11Two-Generalized-Multiple-Integral-Problems.pdf) and get the solution about these two Integral Problems.
 
 ## Remark
 If you have any questions or need further assistance, feel free to ask! Here is my email: [nkusherr1 at gmail.com](mailto:nkusherr1@gmail.com)

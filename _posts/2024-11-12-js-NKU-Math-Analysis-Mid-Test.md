@@ -40,6 +40,6 @@ On the whole, the difficulty level of this test is between that of last year and
 > $$\lambda\int_{G}u^2dxdy+\frac{1}{\lambda}\int_{G}\left(\frac{\partial^2 u}{\partial x^2}+\frac{\partial^2 u}{\partial y^2}\right)dxdy\geq2\int_{G}\left(\frac{\partial u}{\partial x}\right)^2+\left(\frac{\partial u}{\partial y}\right)^2dxdy$$
 
 ## Solution
-Click [Here](/files/Exam/Exam2024秋南开大学数分3伯苓班期中试卷答案.pdf) and get the solution of this exam.
+Click [Here](/files/Exam/Exam2024Fall-NKU-Analysis-Mid-Exam-Solution.pdf) and get the solution of this exam.
 ## Remark
 If you have any questions or need further assistance, feel free to ask! Here is my email: [nkusherr1 at gmail.com](mailto:nkusherr1@gmail.com)

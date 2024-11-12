@@ -29,7 +29,7 @@ Click [Here](/files/Seminar/Paper1.pdf) to read the original paper.
 ## the Notes
 As you know, I've always been in the habit of taking notes.
 
- But the size of my note is too large. So I I uploaded my notes to my **Baidu Disk**.
+ But the size of my note is too large. So I I uploaded my notes to my **Baidu Netdisk**.
 
 CLick [Here](https://pan.baidu.com/s/1pa_I0RlgI3HsuiJjmbSNsQ?pwd=24yk) to download my note.
 
