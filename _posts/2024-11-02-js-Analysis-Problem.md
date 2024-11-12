@@ -35,11 +35,9 @@ $$ \displaystyle\sum_{n=1}^{\infty}\frac{\sin n^{\alpha}}{n^p}$$
 
 收敛.
 
-## Solution
+## Solution for PDF
 <!-- Click [Here](/files/Problems/Problem2024.11.02两个级数问题.pdf) and get the solution about these two similar series problems. -->
 Click Here and get the solution about these two similar series problems.
 
 ## Remark
-Actually it's a test for checking the ability of posting a problem...
-
 If you have any questions or need further assistance, feel free to ask! Here is my email: [nkusherr1 at gmail.com](mailto:nkusherr1@gmail.com)
