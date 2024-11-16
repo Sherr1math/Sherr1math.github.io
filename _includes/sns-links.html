@@ -42,18 +42,8 @@
   <li>
     <a target="_blank" href="https://steamcommunity.com/profiles/{{ site.steam_username }}">
       <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-steam fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  {% endif %}
-  {% if site.zhihu_username %}
-  <li>
-    <a target="_blank" href="https://www.zhihu.com/people/{{ site.zhihu_username }}">
-      <span class="fa-stack fa-lg">
         <i class="fa fa-square-o fa-stack-2x"></i>
-        <i class="fa  fa-stack-1x">知</i>
+        <i class="fa fa-steam fa-stack-1x"></i>
       </span>
     </a>
   </li>
@@ -62,7 +52,7 @@
   <li>
     <a target="_blank" href="http://weibo.com/{{ site.weibo_username }}">
       <span class="fa-stack fa-lg">
-        <i class="fa fa-circle-o fa-stack-2x"></i>
+        <i class="fa fa-square-o fa-stack-2x"></i>
         <i class="fa fa-weibo fa-stack-1x"></i>
       </span>
     </a>
@@ -92,8 +82,28 @@
   <li>
     <a target="_blank" href="https://space.bilibili.com/{{ site.bilibili_username }}">
       <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-square-o fa-stack-2x"></i>
         <i class="fa fa-tv fa-stack-1x"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+  {% if site.zhihu_username %}
+  <li>
+    <a target="_blank" href="https://www.zhihu.com/people/{{ site.zhihu_username }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-square-o fa-stack-2x"></i>
+        <i class="fa  fa-stack-1x">知</i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+  {% if site.luogu_username %}
+  <li>
+    <a target="_blank" href="https://www.luogu.com.cn/user/{{ site.zhihu_username }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-square-o fa-stack-2x"></i>
+        <i class="fa  fa-stack-1x">洛</i>
       </span>
     </a>
   </li>
