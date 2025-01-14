@@ -28,7 +28,7 @@ This is the essay of the Class "Complex Analysis II".
 
 关于**留数**的定义：
 
-设 $z_0$ 是 $f(z_0)$ 的孤立奇点，于是 $f(z)$ 在 $V(z_0,R)-\left\{z_0\right\}$ 中有**Laurent展开**
+设 $z_0$ 是 $f(z_0)$ 的孤立奇点，于是 $f(z)$ 在 $ V(z_0,R)-\{z_0\} $ 中有**Laurent展开**
 
 $$ \displaystyle f(z)=\sum_{k=-\infty}^{+\infty}c_k(z-z_0)^k,\quad z\in V(z_0,R)-\left\{z_0\right\} $$
 
@@ -40,7 +40,7 @@ $$ \displaystyle c_{-1}=\frac{1}{2\pi i}\int_{\Gamma}f(z)dz $$
 
 关于**留数定理**的内容：
 
-设$\Gamma$为一条正向简单闭路径，内部为$D$，$\left\{z_k\right\}_{1\leq k\leq n}$是$D$中有限个点，今若$f$在 $\bar{D}-\left\{z_k\right\}_{1\leq k\leq n}$ 上解析，则
+设$\Gamma$为一条正向简单闭路径，内部为$D$，$\{z_k\}_{1\leq k\leq n}$是$D$中有限个点，今若$f$在 $\bar{D}-\left\{z_k\right\}_{1\leq k\leq n}$ 上解析，则
 
 $$ \frac{1}{2\pi i}\int_{\Gamma}f(z)dz=\sum_{k=1}^{n}Res(f,z_k) $$
 
